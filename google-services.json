@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "701605634699",
+    "firebase_url": "https://places-b6f35.firebaseio.com",
+    "project_id": "places-b6f35",
+    "storage_bucket": "places-b6f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701605634699:android:d3bf1dceb96ba0c1",
+        "android_client_info": {
+          "package_name": "com.example.rynel.googleplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701605634699-u5474h848cfr40jd5mjtmee6qqts64u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rynel.googleplaces",
+            "certificate_hash": "e391ff6f9a8312f016ddd7a14039c4723f9c7407"
+          }
+        },
+        {
+          "client_id": "701605634699-ea11asff74bmhe798hj9eu5j4427imt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBodhvXElrL9M8c_e4hBz0jaAxKa5Gf-SI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701605634699-ea11asff74bmhe798hj9eu5j4427imt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
